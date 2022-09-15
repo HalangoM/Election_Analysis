@@ -52,4 +52,9 @@ Image of winner and total vote/percentage of winner
 ![PyPoll pic 3](https://user-images.githubusercontent.com/99384585/190285966-da70cf30-70bf-419b-a6fa-7592e6e0b5f0.png)
 
 ## Election-Audit Summary
+This code can be used in the future for any election. Couple of modification would be needed. 
 
+For example: 
+  - The data pool you will be using would be different. So where it is coded for a file up load, the csv file that you are uploading would be different.
+ 
+ ![Pic5](https://user-images.githubusercontent.com/99384585/190290428-36a18d48-bbb3-4c13-9a17-6a6bb0ead30b.png)
